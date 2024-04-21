@@ -1,6 +1,6 @@
 # Welcome to Synclyn - Your App Hosting Service! 🚀
 
-Synclyn is the app hosting service that is changing the way developers host applications forever. With Synclyn, you can effortlessly upload, launch, and share apps without the need for your own servers. It has never been easier to host your projects and software while providing users with the best ping in every region.
+Synclyn is the app hosting service developed by [XO-6](https://xo-6.studio) that will change the way developers host applications forever. With Synclyn, you can effortlessly upload, launch and share applications without the need for your own servers. It's never been easier to host your projects and software while providing the best ping to users in every region.
 
 ## Why Synclyn?
 
