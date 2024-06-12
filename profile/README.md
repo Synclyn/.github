@@ -29,3 +29,6 @@ Follow us on Twitter [@Synclyncom](https://twitter.com/Synclyncom) to stay updat
 We look forward to hosting your apps with Synclyn and revolutionizing the way you develop software! 🚀
 
 *Note: For more information, please visit our website at [synclyn.com](https://www.synclyn.com).*
+
+
+<img src="https://komarev.com/ghpvc/?username=Synclyn&label=Profile%20views&color=51CF4A&style=flat" />
